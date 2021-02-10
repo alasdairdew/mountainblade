@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MountainBlade", "Game1\MountainBlade.csproj", "{4A7FD788-38F9-4F27-80E5-C8B159688679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A7FD788-38F9-4F27-80E5-C8B159688679}.Debug|x86.ActiveCfg = Debug|x86
+		{4A7FD788-38F9-4F27-80E5-C8B159688679}.Debug|x86.Build.0 = Debug|x86
+		{4A7FD788-38F9-4F27-80E5-C8B159688679}.Release|x86.ActiveCfg = Release|x86
+		{4A7FD788-38F9-4F27-80E5-C8B159688679}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBBB797A-6DFF-44C7-B557-C24A170D7653}
+	EndGlobalSection
+EndGlobal

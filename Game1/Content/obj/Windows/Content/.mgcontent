@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/arrow.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/arrow2.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/blood.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/bow.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/bow3.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/deadtroop.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/deadtroop2.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/deadtroop3.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/deadtroop4.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/deadtroop5.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/greenteam.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/horse.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/orangeteam.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/qBox.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/sword.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/target.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/troop2.png</File>
+    <File>C:/Users/Alasdair/source/repos/Game1/Game1/Content/troop3.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

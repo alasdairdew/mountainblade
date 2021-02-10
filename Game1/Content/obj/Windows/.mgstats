@@ -1,0 +1,19 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/arrow.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/arrow.xnb","TextureProcessor","Texture2DContent",229,205,0.3403096
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/arrow2.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/arrow2.xnb","TextureProcessor","Texture2DContent",196,117,0.121109
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/blood.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/blood.xnb","TextureProcessor","Texture2DContent",480,985,0.2312182
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/bow.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/bow.xnb","TextureProcessor","Texture2DContent",241,205,0.1291175
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/bow3.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/bow3.xnb","TextureProcessor","Texture2DContent",417,385,0.1201178
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/deadtroop.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/deadtroop.xnb","TextureProcessor","Texture2DContent",533,605,0.2572339
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/deadtroop2.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/deadtroop2.xnb","TextureProcessor","Texture2DContent",716,901,0.2682436
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/deadtroop3.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/deadtroop3.xnb","TextureProcessor","Texture2DContent",713,901,0.1171067
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/deadtroop4.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/deadtroop4.xnb","TextureProcessor","Texture2DContent",717,901,0.1231118
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/deadtroop5.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/deadtroop5.xnb","TextureProcessor","Texture2DContent",1041,1345,0.1201093
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/greenteam.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/greenteam.xnb","TextureProcessor","Texture2DContent",590,985,0.0090144
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/horse.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/horse.xnb","TextureProcessor","Texture2DContent",690,1285,0.271238
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/orangeteam.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/orangeteam.xnb","TextureProcessor","Texture2DContent",586,985,0.0080074
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/qBox.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/qBox.xnb","TextureProcessor","Texture2DContent",296,16469,0.1411369
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/sword.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/sword.xnb","TextureProcessor","Texture2DContent",283,385,0.1191166
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/target.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/target.xnb","TextureProcessor","Texture2DContent",449,16469,0.2302181
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/troop2.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/troop2.xnb","TextureProcessor","Texture2DContent",436,485,0.1191159
+"C:/Users/Alasdair/source/repos/Game1/Game1/Content/troop3.png","C:/Users/Alasdair/source/repos/Game1/Game1/Content/bin/Windows/troop3.xnb","TextureProcessor","Texture2DContent",772,985,0.3523203
